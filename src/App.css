@@ -44,7 +44,7 @@ body {
   }
 }
 
-@media (min-width: 1024px){
+@media (min-width: 1280px){
   .container_main {
     width: 100%;
     min-height: 100vh;

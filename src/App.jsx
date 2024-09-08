@@ -8,11 +8,11 @@ function App() {
 
   return (
     <>
-    <div className="container_main background-image overflow-hidden p-9 min-h-[812px] md:p-11 md:min-h-[1024px] lg:px-[160px] lg:py-0">
+    <div className="container_main background-image overflow-hidden p-9 min-h-[812px] md:p-11 md:min-h-[1024px] xl:px-[160px] xl:py-0">
       <nav>
         <Navigation />
       </nav>
-      <div className="container_info md:bg-blue-950 md:w-[592px] md:min-h-[552px] md:pt-[88px] lg:w-[736px]">
+      <div className="container_info md:bg-blue-950 md:w-[592px] md:min-h-[552px] md:pt-[88px] xl:w-[736px]">
         <main className='md:mb-[42px]'>
           <Content />
         </main>
