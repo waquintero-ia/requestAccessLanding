@@ -41,7 +41,7 @@ Desktop
 
 Tablet
 
-![](./public/images/Desktop.png)
+![](./public/images/Tablet.png)
 
 Mobile
 
