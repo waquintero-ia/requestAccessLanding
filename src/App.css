@@ -3,7 +3,7 @@ body {
   min-height: 100vh;
   background: 
     linear-gradient(rgba(18, 23, 37, .90), rgba(18, 23, 37, .90)),
-    url(./assets/mobile/image-host.jpg) no-repeat;
+    url(/assets/mobile/image-host.jpg) no-repeat;
   background-size: cover;
   z-index:1;
 }
@@ -31,7 +31,7 @@ body {
     width: 200px;
     height: 868px;
     background: 
-      url(./assets/tablet/image-host.jpg) no-repeat;
+      url(/assets/tablet/image-host.jpg) no-repeat;
     background-position: right -73px top;
     background-size: 533px 868px;
     z-index: -1;
@@ -44,7 +44,7 @@ body {
     right: -128px;
     width: 232px;
     height: 104px;
-    background: url(./assets/desktop/bg-pattern-dots.svg) no-repeat;
+    background: url(/assets/desktop/bg-pattern-dots.svg) no-repeat;
     background-size: contain;
     z-index: 1;
   }
@@ -64,7 +64,7 @@ body {
     top: 0;
     right: 0;
     background: 
-      url(./assets/desktop/image-host.jpg) no-repeat;
+      url(/assets/desktop/image-host.jpg) no-repeat;
     background-position: right -65px top 150px;
     background-size: 960px 654px;
     z-index: -1;
@@ -76,7 +76,7 @@ body {
     right:-1px;
     width: 232px;
     height: 104px;
-    background: url(./assets/desktop/bg-pattern-dots.svg) no-repeat;
+    background: url(/assets/desktop/bg-pattern-dots.svg) no-repeat;
     background-size: contain;
     z-index: 1;
   }
