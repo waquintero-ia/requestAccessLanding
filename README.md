@@ -27,7 +27,7 @@ Users should be able to:
 🚀 [https://waquintero-ia.github.io/requestAccessLanding/]()
 
 ## Solution URL
-🚀 []()
+🚀 [https://www.frontendmentor.io/solutions/pod-request-access-lading-page-react-tailwind-un3kTuZNp_]()
 
 ## Author
 
