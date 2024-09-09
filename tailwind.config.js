@@ -20,6 +20,7 @@ export default {
         32: '2rem',
         18: '1.125rem',
         14: '0.875rem',
+        12: '0.75rem',
       },
       lineHeight: {
         200: '200%',
