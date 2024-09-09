@@ -8,14 +8,10 @@ const Form = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    
-    // Validación simple del email
     if (!email || !/\S+@\S+\.\S+/.test(email)) {
       setError(true);
     } else {
       setError(false);
-      // Aquí puedes procesar el formulario (por ejemplo, enviar los datos)
-      console.log('Email válido:', email);
     }
   };
 
